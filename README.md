@@ -20,7 +20,11 @@ suraname = https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json,
 surahdata = https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranacademy.json
 }
 Screenshot: {
-![Screenshot 2022-11-16 132301](https://user-images.githubusercontent.com/106397010/202117635-31395e4a-907d-4b3a-a679-dc33ca5e9dba.png)
+![Screenshot 2022-11-16 132301](https://user-images.githubusercontent.com/106397010/202117635-31395e4a-907d-4b3a-a679-dc33ca5e9dba.png)![Screenshot 2022-11-16 132444](https://user-images.githubusercontent.com/106397010/202118382-d1851279-a4cc-4cb5-b472-3c336b7e1406.png)
+![Screenshot 2022-11-16 132007](https://user-images.githubusercontent.com/106397010/202118372-68fc9881-5483-4539-943c-fddf858e5bcf.png)
+![Screenshot 2022-11-16 132241](https://user-images.githubusercontent.com/106397010/202118377-4b833294-f7b0-4abb-8021-930d2139ce44.png)
+![Screenshot 2022-11-16 132301](https://user-images.githubusercontent.com/106397010/202118379-f518ae1d-8903-4af8-b51e-6535aea3aa7f.png)
+
 ![Screenshot 2022-11-16 132444](https://user-images.githubusercontent.com/106397010/202117644-522e5077-c395-4b18-bb33-cab0eab4c9e9.png)
 
 }
