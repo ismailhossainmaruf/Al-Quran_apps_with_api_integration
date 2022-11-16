@@ -14,14 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
 # API links are below:-
 {
 suraname = https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json,
 surahdata = https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranacademy.json
 }
+
+
 Screenshot: {
-![Screenshot 2022-11-16 132444](https://user-images.githubusercontent.com/106397010/202124670-1b3a586c-5ddc-4782-b3f4-fe9532206e55.png)
-![Screenshot 2022-11-16 132007](https://user-images.githubusercontent.com/![Screenshot 2022-11-16 132241](https://user-images.githubusercontent.com/106397010/202124802-61ea8033-2867-411c-916b-f08724c53d15.png)
-106397010/202124757-24386351-99f8-4897-ba56-038efd70a816.png)
-![Screenshot 2022-11-16 132301](https://user-images.githubusercontent.com/106397010/202124867-c929aaa2-ff03-4a3d-89a9-20c5c10f11fe.png)
+![Screenshot 2022-11-16 132444](https://user-images.githubusercontent.com/106397010/202126009-7fcb49a9-6110-4212-8e4d-d25e293f9841.png)
+![Screenshot 2022-11-16 132007](https://user-images.githubusercontent.com/106397010/202125769-a1926ccf-86b7-430b-87aa-f953cf6ec65f.png)
+![Screenshot 2022-11-16 132241](https://user-images.githubusercontent.com/106397010/202125838-72f3e1c1-2c4e-4982-905e-2a821fffaae3.png)
+![Screenshot 2022-11-16 132301](https://user-images.githubusercontent.com/106397010/202125879-356bc3a6-949a-4042-905e-3331570077a2.png)
+
 }
